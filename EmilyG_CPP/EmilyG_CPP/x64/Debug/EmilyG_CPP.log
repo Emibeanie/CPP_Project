@@ -1,0 +1,5 @@
+﻿  EmilyG_CPP.cpp
+  pathFinding.cpp
+D:\Users\Emily\Documents\GitHub\CPP_Project\EmilyG_CPP\EmilyG_CPP\pathFinding.cpp(60,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  EmilyG_CPP.vcxproj -> D:\Users\Emily\Documents\GitHub\CPP_Project\EmilyG_CPP\x64\Debug\EmilyG_CPP.exe
